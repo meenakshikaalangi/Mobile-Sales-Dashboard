@@ -5,85 +5,63 @@ Power BI dashboard analyzing mobile sales trends, customer behavior, and perform
 
 **Overview**
 
-This project presents a Power BI dashboard developed to analyze mobile sales performance across different cities, brands, and customer behavior. The dashboard helps understand sales trends, customer preferences, and business growth opportunities using visual insights.
+  This project presents a Power BI dashboard developed to analyze mobile sales performance across different cities, brands, and customer behavior.
+The dashboard helps understand sales trends, customer preferences, and business growth opportunities using visual insights.
 
 
 **Problem Statement**
 
-The company is struggling to understand and track its sales performance across cities, brands, and product models. There is a need to identify top-selling products, customer feedback, and seasonal sales patterns to support decision-making. Without proper insights, planning inventory, marketing strategies, and revenue growth becomes challenging.
+  The company is struggling to understand and track its sales performance across cities, brands, and product models.
+There is a need to identify top-selling products, customer feedback, and seasonal sales patterns to support decision-making.
+Without proper insights, planning inventory, marketing strategies, and revenue growth becomes challenging.
 
 
 **Objective**
 
-Analyze overall sales performance and identify trends.
-
-Determine best-selling brands and models.
-
-Understand customer behavior based on payment methods and satisfaction ratings.
-
-Compare sales across months, years, and quarters for forecasting.
-
-Support business growth using data-driven insights.
+* Analyze overall sales performance and identify trends.
+* Determine best-selling brands and models.
+* Understand customer behavior based on payment methods and satisfaction ratings.
+* Compare sales across months, years, and quarters for forecasting.
+* Support business growth using data-driven insights.
 
 
 **Tools Used**
 
-Power BI Desktop _for Dashboard Design & Visualization_
-
-Power Query _for Data Cleaning & Transformation_
-
-DAX Functions _for KPIs & Calculated Measures_
-
-MS Excel _for Data Source_
-
+* Power BI Desktop _for Dashboard Design & Visualization_
+* Power Query _for Data Cleaning & Transformation_
+* DAX Functions _for KPIs & Calculated Measures_
+* MS Excel _for Data Source_
 
 **Key Features**
 
-Year-wise & Quarter-wise Sales Analysis
-
-City-wise Performance Comparison
-
-Brand & Model-wise Revenue Breakdown
-
-Customer Rating Distribution
-
-Preferred Payment Method Insights
-
-Month-to-Date (MTD) Daily Trends
-
-Same Period Last Year (SPLY) comparison
-
+* Year-wise & Quarter-wise Sales Analysis
+* City-wise Performance Comparison
+* Brand & Model-wise Revenue Breakdown
+* Customer Rating Distribution
+* Preferred Payment Method Insights
+* Month-to-Date (MTD) Daily Trends
+* Same Period Last Year (SPLY) comparison
 
 **Dataset Description**
 
 The dataset includes:
-
-Date of Sale
-
-Product Brand & Model
-
-Sales Amount & Quantity Sold
-City
-
-Payment Method
-
-Customer Rating
+* Date of Sale
+* Product Brand & Model
+* Sales Amount & Quantity Sold
+* City
+* Payment Method
+* Customer Rating
 
   This is a sample dataset created for educational and dashboard development purposes.
 
 
 **Insights (Key Findings)**
 
-Certain cities show high sales performance and should be prioritized for marketing.
-
-Top-selling brands and models drive major revenue and need higher stock availability.
-
-Customer preference is high for digital payments, mainly UPI.
-
-Sales performance is stronger on certain months and days, indicating peak demand cycles.
-
-A percentage of customers provided poor ratings, highlighting service improvement areas.
-
+* Certain cities show high sales performance and should be prioritized for marketing.
+* Top-selling brands and models drive major revenue and need higher stock availability.
+* Customer preference is high for digital payments, mainly UPI.
+* Sales performance is stronger on certain months and days, indicating peak demand cycles.
+* A percentage of customers provided poor ratings, highlighting service improvement areas.
 
 **Action Plan / Solution**
 
@@ -106,13 +84,10 @@ Based on the mobile sales analysis, the following solutions are suggested to imp
 
 **Learning Outcomes**
 
-Improved understanding of real-time sales analytics
-
-Hands-on experience with Power BI visualization & DAX
-
-Experience in generating business insights from raw data
-
-Understanding of decision-making through data analysis
+* Improved understanding of real-time sales analytics
+* Hands-on experience with Power BI visualization & DAX
+* Experience in generating business insights from raw data
+* Understanding of decision-making through data analysis
 
 
 **Tags**
